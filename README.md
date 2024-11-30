@@ -1,1 +1,1 @@
-﻿# Organizador de Vendas
+Organizador de produtos vendidos por quantidade e fornecedores.
